@@ -1,5 +1,5 @@
 # personal-finance-management-system-
-Finora is a Java Swing personal finance app for tracking income, expenses, budgets, and savings goals. It includes user and admin roles, reports, and an H2 database for demo data.
+
 # Finora
 
 Finora is a Java Swing desktop app for managing personal finances. Users can track income and expenses, set budgets, monitor savings goals, and review financial summaries. An administrator role provides account management and security activity views.
@@ -33,4 +33,13 @@ Finora is a Java Swing desktop app for managing personal finances. Users can tra
 
 cd <repository-name>
 mvn clean package
+
+if not able to run via jar file directly 
+Download and extract the [Finora project ZIP]
+
+Open the extracted Finora folder—the one containing pom.xml—in File Explorer.
+
+In that folder, open PowerShell (click the address bar, type powershell, and press Enter). Run:
+
+
 java -jar target/finora-1.0.0.jar
