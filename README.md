@@ -43,3 +43,6 @@ In that folder, open PowerShell (click the address bar, type powershell, and pre
 
 
 java -jar target/finora-1.0.0.jar
+
+if still not able to open 
+open finora -> target -> finora 1.0.0.jar
